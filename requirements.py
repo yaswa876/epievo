@@ -1,4 +1,5 @@
 streamlit
+biopython
 pandas
 numpy
-matplotlib
+plotly
